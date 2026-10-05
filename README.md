@@ -77,7 +77,7 @@ La escuela de fotografía **Objetivo DX** imparte formación especializada (foto
   * Marcado de estados de pago como "Pendiente" o "Validado".
 * **Modelo de datos básico (orientativo):**
   * **Usuario:** `id`, `nombre`, `email`, `contraseña`, `rol` (alumno/admin).
-  * **Pago:** `id`, `usuario_id`, `fecha`, `metodo_pago`, `tipo_pago` (mensual/anual), `estado` (pendiente/validado)[cite: 6].
+  * **Pago:** `id`, `usuario_id`, `fecha`, `metodo_pago`, `tipo_pago` (mensual/anual), `estado` (pendiente/validado).
 
 ---
 
